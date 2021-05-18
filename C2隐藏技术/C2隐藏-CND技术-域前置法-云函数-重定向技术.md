@@ -502,9 +502,7 @@ http-post {
 
 ## 4.5 技术实现参考
 
-[为你的C2隐藏与加速-WgpSec狼组安全团队]([为你的C2隐藏与加速 (qq.com)](https://mp.weixin.qq.com/s/6nBrRJHFFpCw4N90n8aURA)
-
-[通过云函数隐藏C2流量-雷神众测]([通过云函数隐藏C2流量 (qq.com)](https://mp.weixin.qq.com/s/lL3UKCRW0cN4SgQIZl7vYw)
-
-[Fully Functional C2](https://www.dropbox.com/s/2yo4uud6fgbe1t5/Fully Functional C2.pptx)
+[为你的C2隐藏与加速-WgpSec狼组安全团队](https://mp.weixin.qq.com/s/6nBrRJHFFpCw4N90n8aURA)
+[通过云函数隐藏C2流量-雷神众测](https://mp.weixin.qq.com/s/lL3UKCRW0cN4SgQIZl7vYw)
+[Fully Functional C2](https://www.dropbox.com/s/2yo4uud6fgbe1t5/Fully%20Functional%20C2.pptx)
 
