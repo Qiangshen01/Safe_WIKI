@@ -468,7 +468,7 @@ BODY
 }FCGI_Record;
 ```
 
-[详情见](https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html#fastcgi-record)
+[Fastcgi协议分析 && PHP-FPM未授权访问漏洞 && Exp编写](https://www.leavesongs.com/PENETRATION/fastcgi-and-php-fpm.html#fastcgi-record)
 
 #### 2.6.2.3 PHP-FPM
 
